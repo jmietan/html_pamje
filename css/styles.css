@@ -1,0 +1,121 @@
+Body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+h1{
+   
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2, h3, h4 {
+    
+    font-weight: 400;
+    font-style: normal;
+    color: #1977CC;
+}
+
+h5 {
+    
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #1977CC;
+}
+
+.pam-ft-color{
+    color: #1977CC;
+}
+
+.pam-hr{
+    border: none;             
+    height: 5px;
+    background-color: #10273F;
+}
+
+.pam-bg-blue{
+    background-color: #065E99;
+}
+
+
+.pam-bg-lightblue{
+    background-color: #D9E9F4;
+}
+
+.pam-bg-grey{
+    background-color: #DBDEE1;
+}
+
+.pam-hero-title{
+    letter-spacing: .2rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+/*--------------------------------------------------------------
+# NAV
+--------------------------------------------------------------*/
+.nav-item{
+    font-size: .9rem;
+}
+
+
+a.navlink.text-white:hover{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #181717;
+    font-size: .9rem;
+}
+
+
+.navbar-toggler {
+    background-color: #D9E9F4;
+    border: none;
+}
+
+
+.pam-btn-darkblue{
+    background-color: #10273F;
+    border: 0;
+    border-radius: 5;
+}
+
+
+
+/*--------------------------------------------------------------
+# BREAK POINTS
+--------------------------------------------------------------*/
+
+  @media (max-width: 576px) { /* Bootstrap's breakpoint for small devices */
+    .custom-car-img-height-sm {
+      height: 50%;
+    }
+
+
+    /* Align "resources" nav item to the left */
+    .dropdown-toggle {
+        text-align: left;
+    }
+
+  }
+
+
+  @media (max-width: 991px) { /* Bootstrap's breakpoint for small devices */
+
+    /* Align "resources" nav item to the left */
+    .dropdown-toggle {
+        text-align: left;
+    }
+
+  }
+
