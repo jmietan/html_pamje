@@ -6,15 +6,10 @@ Body{
 }
 
 
-h1{
-   
-    font-weight: 400;
-    font-style: normal;
-}
 
-h2, h3, h4 {
+h1, h2, h3, h4 {
     
-    font-weight: 400;
+    font-weight: 600;
     font-style: normal;
     color: #1977CC;
 }
@@ -68,13 +63,14 @@ h5 {
 }
 
 
-a.navlink.text-white:hover{
+a.nav-link:hover{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    color: #181717;
+    color: #fff;
     font-size: .9rem;
+    text-decoration: underline;
 }
 
 
@@ -90,7 +86,52 @@ a.navlink.text-white:hover{
     border-radius: 5;
 }
 
+a.foot-links:hover{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #10273F;
+    font-size: .9rem;
+    text-decoration: underline; 
+}
 
+a.foot-links{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #065E99;
+    font-size: .9rem;
+    
+}
+
+a.foot-links:hover{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #065E99;
+    font-size: .9rem;
+    text-decoration: underline; 
+}
+
+
+/*--------------------------------------------------------------
+# Page header
+--------------------------------------------------------------*/
+  
+
+.pam-page-header{
+    background-image: url('../img/page-header-bg.jpg');
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 20px; /* Adjust as needed for spacing */
+    text-align:left;
+    color: white; /* Adjust text color if needed */
+}
 
 /*--------------------------------------------------------------
 # BREAK POINTS
