@@ -90,7 +90,9 @@
         <!-- Card 1 -->
         <div class="col">
           <div class="card rounded-0 pam-bg-grey">
-            <img class="card-img-top rounded-0" src="img/card1.jpg" alt="Card 1">
+            <div class="card-item">
+              <img class="card-img-top rounded-0" src="img/card1.jpg" alt="Card 1">
+            </div>
             <div class="card-body pam-bg-grey">
               <h5 class="card-title pam-ft-color">3rd PAMJE Convention</h5>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
@@ -100,7 +102,9 @@
         <!-- Card 2 -->
         <div class="col">
           <div class="card rounded-0 ">
-            <img class="card-img-top rounded-0" src="img/card2.jpg" alt="Card 2">
+            <div class="card-item">
+              <img class="card-img-top rounded-0" src="img/card2.jpg" alt="Card 2">
+            </div>
             <div class="card-body pam-bg-grey">
               <h5 class="card-title pam-ft-color">Annual Educational Session</h5>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
@@ -111,7 +115,9 @@
         <!-- Card 3 -->
         <div class="col">
           <div class="card rounded-0 ">
-            <img class="card-img-top rounded-0" src="img/card3.jpg" alt="Card 3">
+            <div class="card-item">
+              <img class="card-img-top rounded-0" src="img/card3.jpg" alt="Card 3">
+            </div>
             <div class="card-body pam-bg-grey">
               <h5 class="card-title pam-ft-color">Most Outstanding Physician Award</h5>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
@@ -133,7 +139,7 @@
               </p>
               <p class="pam-ft-color"><button onclick="location.href='about.php'" type="button" class="btn btn-outline-primary">Read More</button></p>
           </div>
-          <div class="col-md-5 order-md-1">
+          <div class="col-md-5 order-md-1 card-item">
             <img class="featurette-image img-fluid mx-auto"src="img/about-us.jpg" alt="About Us">
           </div>
         </div>
@@ -155,7 +161,9 @@
         </div>
         <!-- officer 2-->
         <div class="col-lg-4 text-center">
-          <img class="rounded-circle p-2" src="img/officers/dr-lapena.jpg" alt="Dr Lapena" width="140" height="140">
+          <div class="card-item">
+            <img class="rounded-circle p-2" src="img/officers/dr-lapena.jpg" alt="Dr Lapena" width="140" height="140">
+          </div>
           <h5> Dr. Jose Florencio Fabella Lapeña, Jr.</h5>
           <p>President</p>
           <p class="pt-3"></p> 
@@ -171,8 +179,10 @@
 
 
         <!-- officer 1-->
-        <div class="col-lg-3 text-center">
-          <img class="rounded-circle p-2" src="img/officers/dr-maramba.jpg" alt="Dr Maramba" width="140" height="140">
+        <div class="officer col-lg-3 text-center">
+        <div class="card-item">
+            <img class="rounded-circle p-2" src="img/officers/dr-maramba.jpg" alt="Dr Maramba" width="140" height="140">
+          </div>
           <h5>Dr. Cecile Maramba</h5>
           <p>Vice President (Internal)</p>
           <p class="pt-3"></p> 
@@ -184,7 +194,9 @@
         </div>
         <!-- officer 2-->
         <div class="col-lg-3 text-center">
-          <img class="rounded-circle p-2" src="img/officers/dr-palaganas.jpg" alt="Dr Palaganas" width="140" height="140">
+          <div class="card-item">
+            <img class="rounded-circle p-2" src="img/officers/dr-palaganas.jpg" alt="Dr Palaganas" width="140" height="140">
+          </div>
           <h5>Dr. Erlinda Castro-Palaganas </h5>
           <p>Vice President (External)</p>
           <p class="pt-3"></p>        
@@ -194,7 +206,9 @@
       <div class="row justify-content-center">
         <!-- officer 1-->
         <div class="col-lg-3 text-center">
-          <img class="rounded-circle p-2" src="img/officers/dr-esmaquel.jpg" alt="Dr Esmaquel" width="140" height="140">
+          <div class="card-item">
+            <img class="rounded-circle p-2" src="img/officers/dr-esmaquel.jpg" alt="Dr Esmaquel" width="140" height="140">
+          </div>
           <h5>Dr. Pelagio Esmaquel Jr. </h5>
           <p>Corporate Treasurer</p>
           <p class="pt-3"></p>          
@@ -205,8 +219,10 @@
         </div>
         <!-- officer 2-->
         <div class="col-lg-3 text-center">
-          <img class="rounded-circle p-2" src="img/officers/dr-quebral.jpg" alt="Dr Quebral" width="140" height="140">
-          <h5>Dr. Jospeh Quebral</h5>
+          <div class="card-item">
+           <img class="rounded-circle p-2" src="img/officers/dr-quebral.jpg" alt="Dr Quebral" width="140" height="140">
+          </div>
+           <h5>Dr. Jospeh Quebral</h5>
           <p>Corporate Secretary</p>
           <p class="pt-3"></p>          
         </div>

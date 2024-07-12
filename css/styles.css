@@ -86,34 +86,45 @@ a.nav-link:hover{
     border-radius: 5;
 }
 
-a.foot-links:hover{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: normal;
-    color: #10273F;
-    font-size: .9rem;
-    text-decoration: underline; 
+a.foot-links{
+    color: #065E99;
 }
 
-a.foot-links{
+a.foot-links:link{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
-    color: #065E99;
+    color: #1977CC;
     font-size: .9rem;
+    text-decoration:none;
     
 }
 
 a.foot-links:hover{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 600;
     font-style: normal;
-    color: #065E99;
+    color: #1977CC;
     font-size: .9rem;
     text-decoration: underline; 
+}
+
+/*--------------------------------------------------------------
+# Card image transition
+--------------------------------------------------------------*/
+
+.card-item {
+    overflow: hidden;
+}
+
+.card-item img {
+    transition: all ease-in-out 0.4s;
+}
+
+.card-item:hover img {
+    transform: scale(1.1);
 }
 
 
