@@ -55,9 +55,7 @@
             <li class="nav-item px-3">
               <a class="nav-link text-white" href="index.php">HOME</a>
             </li>
-            <li class="nav-item px-3">
-              <a class="nav-link text-white" href="http://static.pamje.org">CENTRAL</a>
-            </li>
+
             <li class="nav-item px-3">
               <a class="nav-link text-white " href="about.php">ABOUT US</a>
             </li>
@@ -65,16 +63,20 @@
             <li class="nav-item px-3">
               <a class="nav-link text-white " href="pmajelaws.php">PAMJE LAWS</a>
             </li>
+            <li class="nav-item px-3">
+              <a class="nav-link text-white " href="memberjournals.php">MEMBERSHIP</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link text-white" href="http://static.pamje.org">CENTRAL</a>
+            </li>
+            <li class="nav-item px-3">
+              <a class="nav-link text-white " href="#">NEWS and ANNOUNCEMENTS</a>
+            </li>
 
             <li class="nav-item px-3">
-              <a class="nav-link text-white " href="memberjournals.php">PAMJE MEMBER JOURNALS</a>
+              <a class="nav-link text-white " href="gallery.php">GALLERY</a>
             </li>
-            <li class="nav-item px-3">
-              <a class="nav-link text-white " href="officers.php">OFFICERS</a>
-            </li>
-            <li class="nav-item px-3">
-              <a class="nav-link text-white " href="#">ARTICLES</a>
-            </li>
+
             <li class="nav-item px-3">
               <a class="nav-link text-white " href="contact.php">CONTACT US</a>
             </li>

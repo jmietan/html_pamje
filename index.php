@@ -20,9 +20,9 @@
           <div class="carousel-caption text-center">
             <div class="mt-sm-5 py-3">
                 <h2 class="display-4 m-4 pam-hero-title">
-                <span class="p-2 pam-ft-color font-weight-bold"> First slide label </span></h2>
+                <span class="p-2 pam-ft-color font-weight-bold"> PAMJE Convention </span></h2>
                 <p class="m-4 ">
-                <span class="p-2"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
+                <span class="p-2"> We would like to invite you to join us at the Philippine Association for Medical Journal Editors’ Educational Forum   
                 </span>
                 </p>
               
@@ -81,7 +81,7 @@
       <!-- First Row: Articles -->
       <div class="row my-4 ">
         <div class="col d-flex justify-content-between align-items-center">
-          <h2 >Articles</h2>
+          <h2 >News and Announcements</h2>
          <hr>
         </div>
       </div>
@@ -96,6 +96,7 @@
             <div class="card-body pam-bg-grey">
               <h5 class="card-title pam-ft-color">3rd PAMJE Convention</h5>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <a href="#" class="read-more">Read more</a>
             </div>
           </div>
         </div>
@@ -109,6 +110,7 @@
               <h5 class="card-title pam-ft-color">Annual Educational Session</h5>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
                 sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                <a href="#" class="read-more">Read more</a>
             </div>
           </div>
         </div>
@@ -121,6 +123,7 @@
             <div class="card-body pam-bg-grey">
               <h5 class="card-title pam-ft-color">Most Outstanding Physician Award</h5>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <a href="#" class="read-more">Read more</a>
             </div>
           </div>
         </div>

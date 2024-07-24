@@ -26,27 +26,31 @@
                     <br/>
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
-                    </svg> &nbsp;  <a href="#" class="foot-links">CENTRAL</a>
-                    <br/>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
-                      <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
                     </svg> &nbsp; <a href="#" class="foot-links">ABOUT US</a>
                     <br/>
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
                     </svg> &nbsp; <a href="#" class="foot-links">PAMJE LAWS</a>
+                    <br/>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
+                      <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
+                    </svg> &nbsp; <a href="#" class="foot-links">MEMBERSHIP</a>
                     
                 </div>
       
                 <div class="col-lg-3 col-md-6 footer-links">
-                 
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
-                    </svg> &nbsp; <a href="#" class="foot-links">PAMJE MEMBER JOURNALS</a>
+                    </svg> &nbsp;  <a href="#" class="foot-links">CENTRAL</a>
+
                     <br/>
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
-                    </svg> &nbsp;  <a href="#" class="foot-links">ARTICLES</a>
+                    </svg> &nbsp;  <a href="news-and-announcements.php" class="foot-links">NEWS and ANNOUNCEMENTS</a>
+                    <br/>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
+                      <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
+                    </svg> &nbsp;  <a href="gallery.php" class="foot-links">GALLERY</a>
                     <br/>
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#10273F" class="bi bi-chevron-right" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
