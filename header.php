@@ -74,6 +74,10 @@
             </li>
 
             <li class="nav-item px-3">
+              <a class="nav-link text-white " href="gallery.php">ARCHIVES</a>
+            </li>
+
+            <li class="nav-item px-3">
               <a class="nav-link text-white " href="gallery.php">GALLERY</a>
             </li>
 
